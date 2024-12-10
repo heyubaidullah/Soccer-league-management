@@ -1,0 +1,996 @@
+p_id,player_name,te_id
+4,Aaron Galindo,1
+5,Aaron Hughes,2
+6,Aaron Hunt,3
+7,Aaron Kuhl,4
+8,Aaron Lennon,5
+9,Aaron Lennox,6
+10,Aaron Meijers,7
+11,Aaron Mokoena,8
+12,Aaron Mooy,9
+13,Aaron Muirhead,10
+14,Aaron Niguez,1
+15,Aaron Ramsey,2
+16,Aaron Splaine,3
+17,Aaron Taylor-Sinclair,4
+18,Aaron Wilbraham,5
+19,Aatif Chahechouhe,6
+20,Abasse Ba,7
+21,Abdelaziz Barrada,8
+22,Abdelfettah Boukhriss,9
+23,Abdelhamid El Kaoutari,10
+24,Abdelkader Ghezzal,1
+25,Abdellah Zoubir,2
+26,Abdelmajid Oulmers,3
+27,Abdelmalek Cherrad,4
+28,Abdelmalek El Hasnaoui,5
+29,Abdelouahed Chakhsi,6
+30,Abderrazak Jadid,7
+31,Abdeslam Ouaddou,8
+32,Abdessalam Benjelloun,9
+33,Abdou Diallo,10
+34,Abdou Traore,1
+35,Abdoul Ba,2
+36,Abdoul Karim Yoda,3
+37,Abdoul Razzagui Camara,4
+38,Abdoulay Konko,5
+39,Abdoulaye Ba,6
+40,Abdoulaye Bamba,7
+41,Abdoulaye Diaby,8
+42,"Abdoulaye Diallo Sadio,22",9
+43,Abdoulaye Diallo,10
+44,Abdoulaye Doucoure,1
+45,Abdoulaye Faye,2
+46,Abdoulaye Keita,3
+47,Abdoulaye Meite,4
+48,Abdoulaye Toure,5
+49,Abdoulwahid Sissoko,6
+50,Abdourahman Dampha,7
+51,Abdul Aziz Tetteh,8
+52,Abdul Majeed Waris,9
+53,Abdul Osman,10
+54,Abdul Rahman Baba,1
+55,Abdul-Yakinu Iddi,2
+56,Abdulkader Keita,3
+57,Abdulla Fatadi,4
+58,Abdullah Al Hafith,5
+59,Abdullah Omar,6
+60,Abdullahi Shehu,7
+61,Abel Aguilar,8
+62,Abel Gomez,9
+63,Abel Hernandez,10
+64,Abel Issa Camara,1
+65,Abel Khaled,2
+66,Abel Tamata,3
+67,Abel,4
+68,Abella Perez Damia,5
+69,Abiola Dauda,6
+70,Abou Diaby,7
+71,Aboubacar Tandia,8
+72,Aboubakar Kamara,9
+73,Aboubakar Oumarou,10
+74,Abraham Gonzalez,1
+75,Abraham Guie Gneki,2
+76,Abraham Kudemor,3
+77,Abraham Minero,4
+78,Abraham Paz Cruz,5
+79,Achille Coser,6
+80,Achille Emana,7
+81,Achille Vaarnold,8
+82,Achmed Ahahaoui,9
+83,Achraf Lazaar,10
+84,Aco Stojkov,1
+85,Adailton,2
+86,Adailton,3
+87,Adalberto Penaranda,4
+88,Adam Armstrong,5
+89,Adam Banas,6
+90,Adam Bodzek,7
+91,Adam Bogdan,8
+92,Adam Brown,9
+93,Adam Buksa,10
+94,Adam Campbell,1
+95,Adam Collin,2
+96,Adam Cummins,3
+97,Adam Danch,4
+98,Adam Deja,5
+99,Adam Drury,6
+100,Adam Drury,7
+101,Adam Duda,8
+102,Adam Dzwigala,9
+103,Adam Federici,10
+104,Adam Fraczczak,1
+105,Adam Gyurcso,2
+106,Adam Hammill,3
+107,Adam Henley,4
+108,Adam Hlousek,5
+109,Adam Johnson,6
+110,Adam King,7
+111,Adam Kokoszka,8
+112,Adam Lallana,9
+113,Adam Le Fondre,10
+114,Adam Maher,31
+115,Adam Marciniak,32
+116,Adam Marusic,33
+117,Adam Masina,34
+118,Adam Matthews,35
+119,Adam Matuschyk,36
+120,Adam Mojta,37
+121,Adam Morgan,38
+122,Adam Nemec,39
+123,Adam Ounas,40
+124,Adam Pazio,41
+125,Adam Pinter,42
+126,Adam Rooney,43
+127,Adam Ryczkowski,44
+128,Adam Sarota,45
+129,Adam Smith,46
+130,Adam Szalai,47
+131,Adam Taggart,48
+132,Adam Vass,49
+133,Adam Waszkiewicz,50
+134,Adama Ba,31
+135,Adama Coulibaly,32
+136,Adama Francois,33
+137,Adama Soumaoro,34
+138,Adama Traore,35
+139,Adama Traore,36
+140,Adamo Coulibaly,37
+141,Adel Taarabt,38
+142,Adem Ljajic,39
+143,Aderlan Santos,40
+144,Aderlan,41
+145,Adil Auassar,42
+146,Adil Chihi,43
+147,Adil Hermach,44
+148,Adil Rami,45
+149,Adil Ramzi,46
+150,Adilson,47
+151,Adis Jahovic,48
+152,Adlene Guedioura,49
+153,Admir Aganovic,50
+154,Admir Mehmedi,31
+155,Adnan Alisic,32
+156,Adnan Custovic,33
+157,Adnan Januzaj,34
+158,Adnan Mravac,35
+159,Adnane Tighadouini,36
+160,Adrian Basta,37
+161,Adrian Blad,38
+162,Adrian Chomiuk,39
+163,Adrian Colunga,40
+164,Adrian Cristea,41
+165,Adrian Daniel Calello,42
+166,Adrian Embarba,43
+167,Adrian Gonzalez,44
+168,Adrian Gunino,45
+169,Adrian Klepczynski,46
+170,Adrian Lopez,47
+171,Adrian Mariappa,48
+172,Adrian Marin,49
+173,Adrian Mrowiec,50
+174,Adrian Mutu,31
+175,Adrian Nikci,32
+176,Adrian Paluchowski,33
+177,Adrian Rakowski,34
+178,Adrian Ramos,35
+179,Adrian Ricardo Centurion,36
+180,Adrian Ricchiuti,37
+181,Adrian Sardinero Corpa,38
+182,Adrian Stoian,39
+183,Adrian Winter,40
+184,Adrian,41
+185,Adriano De Pierro,42
+186,Adriano Facchini,43
+187,Adriano Ferreira Pinto,44
+188,Adriano Jose de Lara,45
+189,Adriano Pereira da Silva,46
+190,Adriano Russo,47
+191,Adriano,48
+192,Adriano,49
+193,Adriano,50
+194,Adriano,31
+195,Adrien Goni,32
+196,Adrien Hunou,33
+197,Adrien Rabiot,34
+198,Adrien Rawyler,35
+199,Adrien Regattin,36
+200,Adrien Silva,37
+201,Adrien Thomasson,38
+202,Adrien Trebel,39
+203,Adryan,40
+204,"Afonso Alves,24",41
+205,Afonso,42
+206,Afriyie Acquah,43
+207,Ager Aketxe,44
+208,Agim Ibraimi,45
+209,Agon Mehmeti,46
+210,Agustin Vuletich,47
+211,Ahmed Ammi,48
+212,Ahmed Apimah Barusso,49
+213,Ahmed El Messaoudi,50
+214,Ahmed El Mohamady,31
+215,Ahmed Hamoudi,32
+216,Ahmed Hassan Koka,33
+217,Ahmed Hegazy,34
+218,Ahmed Kantari,35
+219,Ahmed Kashi,36
+220,Ahmed Musa,37
+221,Ahmed Saied Okka,38
+222,Ahmed Samir Farag,39
+223,Ahmed Soukouna,40
+224,Ahmet Ozcan,41
+225,Aidan Connolly,42
+226,Aidan Nesbitt,43
+227,Aiden Chippendale,44
+228,Aiden McGeady,45
+229,Aimo Stefano Diana,46
+230,Airam Cabrera,47
+231,Airton,48
+232,Aislan,49
+233,Aissa Laidouni,50
+234,Aissa Mandi,31
+235,Aitor Nunez,32
+236,Aitor Ocio,33
+237,Aiyegbeni Yakubu,34
+238,Akaki Gogia,35
+239,Akihiro Ienaga,36
+240,Akoete Eninful,37
+241,Akos Buzsaky,38
+242,Akpo Sodje,39
+243,Akwetey Mensah,40
+244,Alaeddine Yahia,41
+245,Alain Cantareil,42
+246,Alain Nef,43
+247,Alain Pierre Mendy,44
+248,Alain Rochat,45
+249,Alain Schultz,46
+250,Alain Traore,47
+251,Alain Wiss,48
+252,Alan Combe,49
+253,Alan Gow,50
+254,Alan Haydock,31
+255,Alan Henrique,32
+256,Alan Hutton,33
+257,Alan Kardec,34
+258,Alan Mannus,35
+259,Alan Martin,36
+260,Alan Maybury,37
+261,Alan O'Brien,38
+262,Alan Schons,39
+263,Alan Smith,40
+264,Alan Tate,41
+265,Alan Uryga,42
+266,Alan,43
+267,Alassane Diallo,44
+268,Alassane Plea,45
+269,Alassane Tambe,46
+270,Alassane Toure,47
+271,Alban Joinel,48
+272,Alban Lafont,49
+273,Alban Meha,50
+274,Alban Pnishi,31
+275,Albano Benjamin Bizzarri,32
+276,Albert Baning,33
+277,Albert Bunjaku,34
+278,Albert Crusat,35
+279,Albert Meyong Ze,36
+280,Albert Rafetraniaina,37
+281,Albert Riera,38
+282,Albert Rusnak,39
+283,Albert Streit,40
+284,Alberto Aquilani,41
+285,Alberto Botia,42
+286,Alberto Brignoli,43
+287,Alberto Bueno,44
+288,Alberto Cifuentes,45
+289,Alberto De la Bella,46
+290,Alberto Fontana,47
+291,"Alberto Frison,18",48
+292,Alberto Garcia,49
+293,Alberto Gilardino,50
+294,Alberto Giuliatto,31
+295,Alberto Grassi,32
+296,Alberto Guitian,33
+297,Alberto Lopo,34
+298,"Alberto Luque,21",35
+299,Alberto Maria Fontana,36
+300,Alberto Moreno,37
+301,Alberto Paloschi,38
+302,Alberto Pelagotti,39
+303,Alberto Perea,40
+304,Alberto Pomini,41
+305,Alberto Regazzoni,42
+306,Alberto Rey,43
+307,Alberto Rivera,44
+308,Alberto Rodriguez,45
+309,Alberto Zapater,46
+310,Albian Ajeti,47
+311,Albin Ebondo,48
+312,Albin Ekdal,49
+313,Albion Avdijaj,50
+314,Aldair,31
+315,Aldin Turkes,32
+316,Aldo Angoula,33
+317,Aldo Kalulu,34
+318,Aldo Pedro Duscher,35
+319,Aleandro Rosi,36
+320,Alec Luyckx,37
+321,Alef,38
+322,Aleix Vidal,39
+323,Alejandro Alfaro,40
+324,Alejandro Alonso,41
+325,Alejandro Arribas,42
+326,Alejandro Bedoya,43
+327,Alejandro Bergantinos,44
+328,Alejandro Daro Gomez,45
+329,Alejandro Dominguez,46
+330,Alejandro Faurlin,47
+331,Alejandro Galvez,48
+332,Alejandro Gonzalez,49
+333,Alejandro Grimaldo Garcia,50
+334,Alejandro Martinuccio,31
+335,Alejandro Pozuelo,32
+336,Aleksandar Bjelica,33
+337,Aleksandar Cavric,34
+338,Aleksandar Damcevski,35
+339,Aleksandar Ignjovski,36
+340,Aleksandar Kolarov,37
+341,Aleksandar Kovacevic,38
+342,Aleksandar Lukovic,39
+343,Aleksandar Miljkovic,40
+344,Aleksandar Mitreski,41
+345,Aleksandar Mitrovic,42
+346,Aleksandar Pantic,43
+347,Aleksandar Pesic,44
+348,Aleksandar Prijovic,45
+349,Aleksandar Rankovic,46
+350,Aleksandar Stevanovic,47
+351,Aleksandar Todorovski,48
+352,Aleksandar Tonev,49
+353,Aleksandar Trajkovski,50
+354,Aleksandar Vasoski,11
+355,Aleksander Jagiello,12
+356,Aleksander Kwiek,13
+357,Aleksander Radosavljevic,14
+358,Aleksander Seliga,15
+359,Aleksandr Hleb,16
+360,Aleksandrs Fertovs,17
+361,Aleksei Kangaskolkka,18
+362,Alen Halilovic,19
+363,Alen Melunovic,20
+364,Alen Stevanovic,21
+365,Alesandro Cordaro,22
+366,Alessandro Agostini,23
+367,Alessandro Bernardini,24
+368,Alessandro Budel,25
+369,Alessandro Carrozza,26
+370,Alessandro Cerigioni,27
+371,Alessandro Ciarrocchi,28
+372,Alessandro Crescenzi,29
+373,Alessandro Damen,30
+374,Alessandro Del Piero,51
+375,Alessandro Diamanti,52
+376,Alessandro Florenzi,53
+377,Alessandro Frara,54
+378,Alessandro Gamberini,55
+379,Alessandro Gazzi,56
+380,Alessandro Grandoni,57
+381,Alessandro Iacobucci,58
+382,Alessandro Iandoli,59
+383,Alessandro Lambrughi,60
+384,Alessandro Longhi,61
+385,Alessandro Lucarelli,62
+386,Alessandro Mangiarrati,63
+387,Alessandro Matri,64
+388,Alessandro Nesta,65
+389,Alessandro Parisi,66
+390,Alessandro Piu,67
+391,Alessandro Potenza,68
+392,Alessandro Riedle,69
+393,Alessandro Rosina,70
+394,Alessandro Schoepf,71
+395,Alessandro Sgrigna,72
+396,Alessio Cerci,73
+397,Alessio Cragno,74
+398,Alessio Da Cruz,75
+399,Alessio Manzoni,76
+400,Alessio Romagnoli,77
+401,Alessio Scarpi,78
+402,Alessio Sestu,79
+403,Alex Baptiste,80
+404,Alex Bruce,81
+405,Alex Bruno,82
+406,Alex Bruno,83
+407,Alex Calderoni,84
+408,Alex Cooper,85
+409,Alex Fernandez,86
+410,Alex Ferrari,87
+411,Alex Goncalves,88
+412,Alex Harris,89
+413,Alex Henshall,90
+414,Alex Iwobi,91
+415,Alex Kacaniklic,92
+416,Alex Kakuba,93
+417,Alex Keddie,94
+418,Alex Lopez,95
+419,Alex MacDonald,96
+420,Alex Manninger,97
+421,Alex Martinez,98
+422,Alex McCarthy,99
+423,Alex Menendez,100
+424,Alex Neil,101
+425,Alex Oxlade-Chamberlain,11
+426,Alex Pearce,12
+427,Alex Perez,13
+428,Alex Pinardi,14
+429,Alex Portillo,15
+430,Alex Sandro,16
+431,Alex Schalk,17
+432,Alex Silva,18
+433,Alex Soares,19
+434,Alex Song,20
+435,Alex Telles,21
+436,Alex Valentini,22
+437,Alex Von Schwedler,23
+438,Alex,24
+440,Alex,25
+442,Alex,26
+443,Alexander Bannink,27
+444,Alexander Baumjohann,28
+445,Alexander Buettner,29
+446,Alexander Bugera,30
+447,Alexander Corryn,51
+448,Alexander Cristovao,52
+449,Alexander Djiku,53
+450,Alexander Dragovic,54
+451,Alexander Esswein,55
+452,Alexander Farnerud,56
+453,Alexander Fransson,57
+454,Alexander Frei,58
+455,Alexander Gerndt,59
+456,Alexander Gonzalez,60
+457,Alexander Hack,61
+458,Alexander Iashvili,62
+459,Alexander Laas,63
+460,Alexander Madlung,64
+461,Alexander Mathisen,65
+462,Alexander Meier,66
+463,Alexander Merkel,67
+464,Alexander Milosevic,68
+465,Alexander Ring,69
+466,Alexander Scholz,70
+467,Alexander Schwolow,71
+468,Alexander Soerloth,72
+469,Alexander Stephan,73
+470,Alexander Tettey,74
+471,Alexandr Kerzhakov,75
+472,Alexandre Alphonse,76
+473,Alexandre Azevedo,77
+474,Alexandre Barthe,78
+475,Alexandre Bonnet,79
+476,Alexandre Coeff,80
+477,Alexandre Cuvillier,81
+478,Alexandre D'Acol,82
+479,Alexandre Di Gregorio,83
+480,Alexandre Geijo,84
+481,Alexandre Hauw,85
+482,Alexandre Lacazette,86
+483,Alexandre Letellier,87
+484,Alexandre Licata,88
+485,Alexandre Mendy,89
+486,Alexandre Pasche,90
+487,Alexandre Pato,91
+488,Alexandre Quennoz,92
+489,Alexandre Raineau,93
+490,Alexandre Silva,94
+491,Alexandros Tziolis,95
+492,Alexandros Tzorvas,96
+493,Alexandru Maxim,97
+494,Alexei Jr Eremenko,98
+495,Alexi Peuget,99
+496,Alexis Alegue Elandi,100
+497,Alexis Blin,101
+498,Alexis De Sart,11
+499,Alexis Norambuena Ruz,12
+500,Alexis Rolin,13
+501,Alexis Sanchez,14
+502,Alexis Thebaux,15
+503,Alexis,16
+504,Alexy Bosetti,17
+505,Alfonso Artabe,18
+506,Alfonso De Lucia,19
+507,Alfonso Pedraza,20
+508,Alfonso Taira,21
+509,Alfred Duncan,22
+510,Alfred Finnbogason,23
+511,Alfred N'Diaye,24
+512,Alfredo Morales,25
+513,Alfredo Ortuno,26
+514,Alharbi El Jadeyaoui,27
+515,Alhassan Wakaso,28
+516,Alhassane Bangoura,29
+517,Alhassane Keita,30
+518,Alhassane Keita,51
+519,Ali Adnan,52
+520,Ali Ahamada,53
+521,Ali Al-Habsi,54
+522,Ali Boussaboun,55
+523,Ali Ghazal,56
+524,Ali M'Madi,57
+525,Ali Messaoud,58
+526,Ali Yasar,59
+527,Alim Oezturk,60
+528,Aliou Dia,61
+529,Alioun Fall,62
+530,Alireza Haghighi,63
+531,Alireza Jahanbakhsh,64
+532,Alistair Crawford,65
+533,Aljaz Struna,66
+534,Alje Schut,67
+535,Allan McGregor,68
+536,Allan Nyom,69
+537,Allan Russell,70
+538,Allan Saint-Maximin,71
+539,Allan,72
+540,Allan,73
+541,Almamy Toure,74
+542,Almeida Anderson do Oliveira,75
+543,Almeida Borges Leandro,76
+544,Almen Abdi,77
+545,Almog Cohen,78
+546,Alois Confais,79
+547,Alou Diarra,80
+548,Aloys Nong,81
+549,Alpaslan Ozturk,82
+550,Alphonse Areola,83
+551,Alphousseyni Keita,84
+552,Altin Lala,85
+553,Alvarinho,86
+554,Alvaro Ampuero,87
+555,Alvaro Anton,88
+556,Alvaro Arbeloa,89
+557,Alvaro Arroyo,90
+558,Alvaro Cejudo,91
+559,Alvaro Dominguez,92
+560,Alvaro Dominguez,93
+561,Alvaro Fernandez,94
+562,Alvaro Garcia,95
+563,Alvaro Gimenez,96
+564,Alvaro Gonzalez Soberon,97
+565,Alvaro Gonzalez,98
+566,Alvaro Medran,99
+567,Alvaro Mejia,100
+568,Alvaro Morata,101
+569,Alvaro Negredo,11
+570,Alvaro Pereira,12
+571,Alvaro Rubio,13
+572,Alvaro Saborio,14
+573,Alvaro Santos,15
+574,Alvaro Vadillo,16
+575,Alvaro Vazquez,17
+576,"Alves Justino Jorge Luiz,28",18
+577,Aly Cissokho,19
+578,Aly Ndom,20
+579,Amad Al Hosni,21
+580,Amadou Alassane,22
+581,Amadou Diawara,23
+582,Amadou Sidibe,24
+583,Amadou Soukouna,25
+584,Amara Baby,26
+585,Amauri,27
+586,Amaury Bischoff,28
+587,Amdy Faye,29
+588,Amidio Balde,30
+589,Amidu Salifu,51
+590,Amilton,52
+591,Amin Affane,53
+592,Amin Younes,54
+593,Amine Linganzi,55
+594,Amine Mohamed Chermiti,56
+595,Amir Abrashi,57
+596,Amir Spahic,58
+597,Ammar Jemal,59
+598,Amoreirinha,60
+599,Amos Youga,61
+600,Amr Zaki,62
+601,Anaitz Arbilla,63
+602,Anas Tahiri,64
+603,Anass Achahbar,65
+604,Anastasios Donis,66
+605,Anatole Ngamukol,67
+606,Anatoli Tymoschuk,68
+607,Ancelmo Junior,69
+608,Anco Jansen,70
+609,Ander Capa,71
+610,Ander Herrera,72
+611,Ander Iturraspe,73
+612,Ander Murillo,74
+613,Anders Christiansen,75
+614,Anders Konradsen,76
+615,Anders Lindegaard,77
+616,Anderson Carvalho,78
+617,Anderson Conceicao,79
+618,Anderson Correia,80
+619,Anderson Esiti,81
+620,Anderson Luis,82
+621,Anderson Melo,83
+622,Anderson Talisca,84
+623,Anderson,85
+624,Anderson,86
+625,Andi Lila,87
+626,Andile Jali,88
+627,Andis Shala,89
+628,Andjelko Djuricic,90
+629,Andoni Iraola,91
+630,Andras Gosztonyi,92
+631,Andraz Kirm,93
+632,Andre Albino Carvalho da Cunha,94
+633,Andre Almeida,95
+634,Andre Andre,96
+635,Andre Anguissa,97
+636,Andre Auras,98
+637,Andre Ayew,99
+638,Andre Bahia,100
+639,Andre Bikey,101
+640,Andre Biyogo Poko,11
+641,Andre Blackman,12
+642,Andre Bukia,13
+643,Andre Carrillo,14
+644,Andre Castro,15
+645,Andre Claro,16
+646,Andre Costa,17
+647,Andre Dias,18
+648,Andre Dias,19
+649,Andre Fontes,20
+650,Andre Geraldes,21
+651,Andre Gomes,22
+652,Andre Hahn,23
+653,Andre Hainault,24
+654,Andre Hoffmann,25
+655,Andre Horta,26
+656,Andre Leao,27
+657,Andre Lenz,28
+658,Andre Leone,29
+659,Andre Luiz,30
+660,Andre Marques,51
+661,Andre Martins,52
+662,Andre Micael,53
+663,Andre Mijatovic,54
+664,Andre Moreira,55
+665,Andre Ooijer,56
+666,Andre Pinto,57
+667,Andre Ramalho Silva,58
+668,Andre Santos,59
+669,Andre Santos,60
+670,Andre Schuerrle,61
+671,Andre Silva,62
+672,Andre Simoes,63
+673,Andre Sousa,64
+674,Andre Vilas Boas,65
+675,Andre Wisdom,66
+676,Andre-Pierre Gignac,67
+677,Andre,68
+678,Andrea Ardito,69
+679,Andrea Barzagli,70
+680,Andrea Belotti,71
+681,Andrea Bertolacci,72
+682,Andrea Campagnolo,73
+683,Andrea Caracciolo,74
+684,Andrea Catellani,75
+685,Andrea Coda,76
+686,Andrea Consigli,77
+687,Andrea Conti,78
+688,Andrea Conti,79
+689,Andrea Cossu,80
+690,Andrea Costa,81
+691,Andrea Dossena,82
+692,Andrea Esposito,83
+693,Andrea Fileccia,84
+694,Andrea Gasbarroni,85
+695,Andrea Guatelli,86
+696,Andrea Lazzari,87
+697,Andrea Lisuzzo,88
+698,Andrea Luci,89
+699,Andrea Mantovani,90
+700,Andrea Masiello,91
+701,Andrea Mazzarani,92
+702,Andrea Mei,93
+703,Andrea Mutombo,94
+704,Andrea Orlandi,95
+705,Andrea Parola,96
+706,Andrea Pirlo,97
+707,Andrea Pisanu,98
+708,Andrea Poli,99
+709,Andrea Raggi,100
+710,Andrea Ranocchia,101
+711,Andrea Rispoli,11
+712,Andrea Rossi,12
+713,Andrea Russotto,13
+714,Andrea Seculin,14
+715,Andrea Tabanelli,15
+716,Andrea Zanchetta,16
+717,Andreas Beck,17
+718,Andreas Bjelland,18
+719,Andreas Christensen,19
+720,Andreas Goerlitz,20
+721,Andreas Granqvist,21
+722,Andreas Hinkel,22
+723,Andreas Hirzel,23
+724,Andreas Ibertsberger,24
+725,Andreas Isaksson,25
+726,Andreas Ivanschitz,26
+727,Andreas Johansson,27
+728,Andreas Lambertz,28
+729,Andreas Landgren,29
+730,Andreas Lasnik,30
+731,Andreas Ludwig,51
+732,Andreas Luthe,52
+733,Andreas Ottl,53
+734,Andreas Samaris,54
+735,Andreas Weimann,55
+736,Andreas Wittwer,56
+737,Andreas Wolf,57
+738,Andrej Kramaric,58
+739,Andrej Rendla,59
+740,Andres Fernandez,60
+741,Andres Guardado,61
+742,Andres Iniesta,62
+743,Andres Lamas,63
+744,Andres Madrid,64
+745,Andres Malloth,65
+746,Andres Palop,66
+747,Andres Tunez,67
+748,Andreu Fontas,68
+749,Andreu Mayoral,69
+750,Andrew Barrowman,70
+751,Andrew Considine,71
+752,Andrew Crofts,72
+753,Andrew Davies,73
+754,Andrew Dawson,74
+755,Andrew Driver,75
+756,Andrew Johnson,76
+757,Andrew Keogh,77
+758,Andrew Little,78
+759,Andrew McNeil,79
+760,Andrew Mitchell,80
+761,Andrew O'Brien,81
+762,Andrew Reid,82
+763,Andrew Robertson,83
+764,Andrew Shinnie,84
+765,Andrew Sinkala,85
+766,Andrew Surman,86
+767,Andrew Taylor,87
+768,Andrew Wooten,88
+769,Andrey Arshavin,89
+770,Andrey Voronin,90
+771,Andrezinho,91
+772,Andrezinho,92
+773,Andrija Delibasic,93
+774,Andrija Kaludjerovic,94
+775,Andris Vanins,95
+776,Andrius Velicka,96
+777,Andriy Shevchenko,97
+778,Andros Townsend,98
+779,Andrzej Witan,99
+780,Andwele Slory,100
+781,Andy Carroll,101
+782,Andy Delort,11
+783,Andy Dorman,12
+784,Andy Dowie,13
+785,Andy Griffin,14
+786,Andy Jackson,15
+787,Andy Kawaya,16
+788,Andy King,17
+789,Andy Kirk,18
+790,Andy Najar,19
+791,Andy Webster,20
+792,Andy Wilkinson,21
+793,Anele Ngcongca,22
+794,Anestis Argyriou,23
+795,Angel Cervara,24
+796,Angel Correa,25
+797,Angel Di Maria,26
+798,Angel Javier Arizmendi,27
+799,Angel Lafita,28
+800,Angel Lopez,29
+801,Angel Manuel Vivar Dorado,30
+802,Angel Montoro,51
+803,Angel Rangel,52
+804,Angel Rodriguez,53
+805,Angel Trujillo,54
+806,Angelo da Costa,55
+807,Angelo Martha,56
+808,Angelo Obinze Ogbonna,57
+809,Angelo Palombo,58
+810,Angelo Raso,59
+811,Angelo,60
+812,Angelos Basinas,61
+813,Angelos Charisteas,62
+814,Anibal Capela,63
+815,Anice Badri,64
+816,Anilton,65
+817,Anis Ben-Hatira,66
+818,Anouar Kali,67
+819,Anour Hadouir,68
+820,Anselmo,69
+821,Anselmo,70
+822,Anselmo,71
+823,Anssi Jaakkola,72
+824,Ante Puljic,73
+825,Ante Rebic,74
+826,Ante Vukusic,75
+827,Anther Yahia,76
+828,Anthony Andreu,77
+829,Anthony Annan,78
+830,Anthony Bentem,79
+831,Anthony Biekman,80
+832,Anthony Deroin,81
+833,Anthony Favre,82
+834,Anthony Forde,83
+835,Anthony Gardner,84
+836,Anthony Knockaert,85
+837,Anthony Le Tallec,86
+838,Anthony Limbombe,87
+839,Anthony Lippini,88
+840,Anthony Lopes,89
+841,Anthony Loustallot,90
+842,Anthony Lurling,91
+843,Anthony Martial,92
+844,Anthony McMahon,93
+845,Anthony Mfa Meuzi,94
+846,Anthony Modeste,95
+847,Anthony Moris,96
+848,Anthony Mounier,97
+849,Anthony Obodai,98
+850,Anthony Pilkington,99
+851,Anthony Portier,100
+852,Anthony Reveillere,101
+853,Anthony Ribelin,11
+854,Anthony Sauthier,12
+855,Anthony Seric,13
+856,Anthony Stokes,14
+857,Anthony Straker,15
+858,Anthony Ujah,16
+859,Anthony van Loo,17
+860,Anthony Vanden Borre,18
+861,Anthony Walongwa,19
+862,Anthony Watt,20
+863,Anthony Weber,21
+864,Antimo Iunco,22
+865,Anto Grgic,23
+866,Antoine Conte,24
+867,Antoine Devaux,25
+868,Antoine Griezmann,26
+869,Antoine Rabillard,27
+870,Antoine Rey,28
+871,Antoine van der Linden,29
+872,Antolin Alcaraz,30
+873,Anton Ferdinand,51
+874,Anton Mitryushkin,52
+875,Anton Putsila,53
+876,Anton Sloboda,54
+877,Antoni Lukasiewicz,55
+878,Antonini Culina,56
+879,Antonio Adan,57
+880,Antonio Amaya,58
+881,Antonio Apono,59
+882,Antonio Balzano,60
+883,Antonio Barilla,61
+884,Antonio Barragan,62
+885,Antonio Bocchetti,63
+886,Antonio Busce,64
+887,Antonio Candreva,65
+888,Antonio Carlos Dos Santos,66
+889,Antonio Cassano,67
+890,Antonio Chimenti,68
+891,Antonio Cotan,69
+892,Antonio da Silva,70
+893,Antonio de Azevedo,71
+894,Antonio Di Gaudio,72
+895,Antonio Di Natale,73
+896,Antonio Doblas,74
+897,Antonio Donnarumma,75
+898,Antonio Filipe,76
+899,Antonio Filippini,77
+900,Antonio Floro Flores,78
+901,Antonio Geder,79
+902,Antonio Ghomsi,80
+903,Antonio Guayre,81
+904,Antonio Hidalgo,82
+905,Antonio Langella,83
+906,Antonio Lopez,84
+907,Antonio Luna,85
+908,Antonio Marin Molina,86
+909,Antonio Mazzotta,87
+910,Antonio Milic,88
+911,Antonio Mirante,89
+912,Antonio Nocerino,90
+913,Antonio Reguero Chapinal,91
+914,Antonio Rosati,92
+915,Antonio Ruediger,93
+916,Antonio Rukavina,94
+917,Antonio Sanabria,95
+918,Antonio Signori Dominique,96
+919,Antonio Tomas,97
+920,Antonio Valencia,98
+921,Antonio Xavier,99
+922,Antonio Zito,100
+923,Antonio-Mirko Colak,101
+924,Antons Kurakins,11
+925,"Antony Lecointe,19",12
+926,Antti Okkonen,13
+927,Antunes,14
+928,Anwar El-Ghazi,15
+929,Apostolos Vellios,16
+930,Apoula Edima Edel,17
+931,Aquivaldo Mosquera,18
+932,Aras Oezbiliz,19
+933,Arber Zeneli,20
+934,Archimede Morleo,21
+935,Ard van Peppen,22
+936,Arda Turan,23
+937,Arek Radomski,24
+938,Ari,25
+939,Ariel Borysiuk,26
+940,Ariel Ibagaza,27
+941,Ariel Nahuelpan,28
+942,Aristide Bance,29
+943,Aristote Madiani,30
+944,Aristote N'Dongala,51
+945,Aritz Aduriz,52
+946,Aritz Elustondo,53
+947,Aritz Lopez Garai,54
+948,Ariza Makukula,55
+949,Arjan Swinkels,56
+950,Arjan van Dijk,57
+951,Arjen Robben,58
+952,Arkadiusz Glowacki,59
+953,Arkadiusz Malarz,60
+954,Arkadiusz Milik,61
+955,Arkadiusz Piech,62
+956,Arkadiusz Wozniak,63
+957,Arlind Ajeti,64
+958,Armand Traore,65
+959,Armando Izzo,66
+960,Armando Sadiku,67
+961,Armiche Ortega,68
+962,Armin Alesevic,69
+963,Armin Bacinovic,70
+964,Armin Cerimagic,71
+965,Arnar Vidarsson,72
+966,Arnaud Buhler,73
+967,Arnaud De Greef,74
+968,Arnaud Le Lan,75
+969,Arnaud Maire,76
+970,Arnaud Souquet,77
+971,Arnaud Sutchuin Djoum,78
+972,Arne Friedrich,79
+973,Arne Naudts,80
+974,Arne Slot,81
+975,Arni Gautur Arason,82
+976,Arno Verschueren,83
+977,Arnold Bouka Moutou,84
+978,Arnold Bruggink,85
+979,Arnold Kruiswijk,86
+980,Arnold Mvuemba,87
+981,Arnold,88
+982,Arnor Angeli,89
+983,Arnor Smarason,90
+984,Aron Gunnarsson,91
+985,Aron Johannsson,92
+986,Aron Liechti,93
+987,Arouna Kone,94
+988,Arsenio Valpoort,95
+989,Arsenio,96
+990,Artem Kravets,97
+991,Artem Putivtsev,98
+992,Artem Simonyan,99
+993,Arthur Boka,100
+994,Arthur Masuaku,101
+995,Arthur,102
+996,Arthuro,102
+997,Artiles Oliva Aythami,102
+998,Artis Lazdins,102
+999,Artjoms Rudnevs,102
+1000,Artur Boruc,102

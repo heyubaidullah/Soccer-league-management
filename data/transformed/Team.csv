@@ -1,0 +1,100 @@
+te_id,te_name,home_stadium,to_id
+4,KRC Genk,zurich,3
+5,Beerschot AC,BAC Home,4
+6,SV Zulte-Waregem,Waregem City,5
+7,Sporting Lokeren,Lokeren,1
+8,KSV Cercle Brugge,Brugge,2
+9,RSC Anderlecht,RSC Stadium,3
+10,KAA Gent,KAA,4
+11,RAEC Mons,RAEC,5
+12,FCV Dender EH,FCV,12
+13,Standard de Liège,Durich,13
+14,KV Mechelen,KVM,14
+15,Club Brugge KV,CBKV,12
+16,KSV Roeselare,KSC,13
+17,KV Kortrijk,KVK,14
+18,Tubize,Tubize,12
+19,Royal Excel Mouscron,Washinton,13
+20,KVC Westerlo,Westerlo,14
+21,Sporting Charleroi,charleroi,12
+22,Sint-Truidense VV,vv,13
+23,Lierse SK,lierse,14
+24,KAS Eupen,KAS,12
+25,Oud-Heverlee Leuven,oud,13
+26,Waasland-Beveren,bevern,14
+27,KV Oostende,KVO,12
+28,Royal Excel Mouscron,Mouscron,13
+29,Manchester United,MU,14
+30,Newcastle United,NU,1
+31,Arsenal,Arsernal FC,2
+32,West Bromwich Albion,Albion,3
+33,Sunderland,Sunderland FC,4
+34,Liverpool,Liverpool FC,5
+35,West Ham United,West Ham,1
+36,Wigan Athletic,WA,2
+37,Aston Villa,Aston Villa,3
+38,Manchester City,Manchester City FC,4
+39,Everton,Everton,5
+40,Blackburn Rovers,Blackburn Rovers,1
+41,Middlesbrough,Middlesbrough,2
+42,Tottenham Hotspur,Tottenham Hotspur,3
+43,Bolton Wanderers,Bolton Wanderers,4
+44,Stoke City,Stoke City,5
+45,Hull City,Hull City,1
+46,Fulham,Fulham,2
+47,Chelsea,Chelsea,3
+48,Portsmouth,Portsmouth,4
+49,Birmingham City,Birmingham City,5
+50,Wolverhampton Wanderers,Wolverhampton Wanderers,1
+51,Burnley,Burnley,2
+52,Blackpool,Blackpool,3
+53,Swansea City,Swansea City,4
+54,Queens Park Rangers,Queens Park Rangers,5
+55,Norwich City,Norwich City,1
+56,Southampton,Southampton,2
+57,Reading,Reading,3
+58,Crystal Palace,Crystal Palace,4
+59,Cardiff City,Cardiff City,5
+60,Leicester City,Leicester City,1
+61,Bournemouth,Bournemouth,2
+62,Watford,Watford,3
+63,AJ Auxerre,AJ Auxerre,4
+64,FC Nantes,FC Nantes,5
+65,Girondins de Bordeaux,Girondins de Bordeaux,1
+66,SM Caen,SM Caen,2
+67,Le Havre AC,Le Havre AC,3
+68,OGC Nice,OGC Nice,4
+69,Le Mans FC,Le Mans FC,5
+70,FC Lorient,FC Lorient,1
+71,Olympique Lyonnais,Olympique Lyonnais,2
+72,Toulouse FC,Toulouse FC,3
+73,AS Monaco,AS Monaco,4
+74,Paris Saint-Germain,Paris Saint-Germain,5
+75,AS Nancy-Lorraine,AS Nancy-Lorraine,1
+76,LOSC Lille,LOSC Lille,2
+77,Stade Rennais FC,Stade Rennais FC,3
+78,Olympique de Marseille,Olympique de Marseille,4
+79,FC Sochaux-Montbéliard,FC Sochaux-Montbéliard,5
+80,Grenoble Foot 38,Grenoble Foot 38,1
+81,Valenciennes FC,Valenciennes FC,2
+82,AS Saint-Étienne,AS Saint-Étienne,3
+83,RC Lens,RC Lens,4
+84,Montpellier Hérault SC,Montpellier Hérault SC,5
+85,US Boulogne Cote D'Opale,US Boulogne Cote D'Opale,1
+86,AC Arles-Avignon,AC Arles-Avignon,2
+87,Stade Brestois 29,Stade Brestois 29,3
+88,AC Ajaccio,AC Ajaccio,4
+89,Évian Thonon Gaillard FC,Évian Thonon Gaillard FC,5
+90,Dijon FCO,Dijon FCO,1
+91,Stade de Reims,Stade de Reims,2
+92,SC Bastia,SC Bastia,3
+93,ES Troyes AC,ES Troyes AC,4
+94,En Avant de Guingamp,En Avant de Guingamp,5
+95,FC Metz,FC Metz,1
+96,Angers SCO,Angers SCO,2
+97,GFC Ajaccio,GFC Ajaccio,3
+98,FC Bayern Munich,FC Bayern Munich,4
+99,Hamburger SV,Hamburger SV,5
+100,Bayer 04 Leverkusen,Bayer 04 Leverkusen,6
+101,Borussia Dortmund,Borussia Dortmund,7
+102,FC Schalke 04,FC Schalke 04,8
